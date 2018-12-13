@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+ pravin is a bad boy
+=======
+praveen is a good boy
+>>>>>>> master
+how are you
